@@ -1,4 +1,4 @@
-# Project Title: HR Analysis 🪟📊
+# Project Title: HR Analysis 👥📊
 
 - **Author:** Szymon Swiezy
 - **Email:** szymon.swiezy1@gmail.com
