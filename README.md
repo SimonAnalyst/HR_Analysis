@@ -3,7 +3,7 @@
 - **Author:** Szymon Swiezy
 - **Email:** szymon.swiezy1@gmail.com
 - **Website:** www.datascienceportfol.io/szymonswiezy
-- **Dashboard:** 
+- **Dashboard:** www.novypro.com/project/hr-analysis-43
 - **LinkedIn:** www.linkedin.com/in/szymon-swiezy
 
 The project looks at different parts of employee info to help make smarter decisions. By checking things like which department has the most workers and the gender breakdown, we get a big picture of how the company is doing. This helps us spot any trends or issues and come up with plans to make things better, like keeping employees happy and reducing turnover. It's all about making the organization run smoother and keeping everyone happy at work. The insights gained from analyzing employee data empower us to tailor strategies that not only enhance employee satisfaction but also contribute to the overall success and sustainability of the organization.
